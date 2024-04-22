@@ -1,0 +1,43 @@
+.box{
+  margin: auto;
+  margin-top: 10%;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #444;
+  color: #fff;
+  border-radius: 1pc;
+}
+
+input {
+  margin: 10px;
+  width: 300px;
+  padding-left: 20px;
+  border: none;
+  outline: none;
+  border-radius: 1pc;
+}
+label {
+  margin-left: 10px;
+}
+
+button{
+  margin: 10px;
+  width: 300px;
+  border: none;
+  outline: none;
+  border-radius: 1pc;
+  background-color: #fa3434;
+  color: #fff;
+  font-size: 18px;
+}
+
+form{
+  margin-top: 10%;
+}
+
+.form-group{
+  margin-bottom: 10px;
+}
